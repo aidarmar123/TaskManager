@@ -31,9 +31,10 @@ namespace TaskManager
         public MainWindow()
         {
             InitializeComponent();
+            //Навигация
             TaskManagerFrame.Navigate(new Processes());
             EffciencyFrame.Navigate(new Efficiency());
-
+            
         }
     }
 }

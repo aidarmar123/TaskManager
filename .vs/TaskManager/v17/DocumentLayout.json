@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\pages\\efficiency.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\pages\\efficiency.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\taskmanager\\taskmanager\\resources\\splashscreen.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\resources\\splashscreen.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\taskmanager\\taskmanager\\pages\\processes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|c:\\users\\\u0430\u0439\u0434\u0430\u0440\\source\\repos\\taskmanager\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\pages\\efficiency.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\pages\\efficiency.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\resources\\splashscreen.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\resources\\splashscreen.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\taskmanager\\pages\\processes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B477DE3D-AAF8-4067-AEC8-09A436F01C39}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\pages\\processes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,23 +58,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "splashscreen.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\Resources\\splashscreen.png",
               "RelativeDocumentMoniker": "TaskManager\\Resources\\splashscreen.png",
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\Resources\\splashscreen.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "RelativeToolTip": "TaskManager\\Resources\\splashscreen.png - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-08-08T13:54:00.983Z",
-              "EditorCaption": " - PNG [512x512, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+              "WhenOpened": "2024-08-08T13:54:00.983Z"
             },
             {
               "$type": "Document",
@@ -90,16 +93,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Efficiency.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\Pages\\Efficiency.xaml.cs",
               "RelativeDocumentMoniker": "TaskManager\\Pages\\Efficiency.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\Pages\\Efficiency.xaml.cs",
               "RelativeToolTip": "TaskManager\\Pages\\Efficiency.xaml.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGQAAAAQAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwGQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:50:49.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T13:50:49.053Z"
             },
             {
               "$type": "Document",
@@ -111,8 +113,7 @@
               "RelativeToolTip": "TaskManager\\Pages\\Processes.xaml.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:47:50.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T13:47:50.936Z"
             },
             {
               "$type": "Document",
@@ -174,13 +175,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TaskManager\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0439\u0434\u0430\u0440\\source\\repos\\TaskManager\\TaskManager\\MainWindow.xaml.cs",
               "RelativeToolTip": "TaskManager\\MainWindow.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T09:25:53.485Z",
               "EditorCaption": ""

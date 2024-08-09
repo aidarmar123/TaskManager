@@ -23,6 +23,10 @@
                 <Frame x:Name="EffciencyFrame"
                        NavigationUIVisibility="Hidden"/>
             </TabItem>
+            <TabItem Header="Users">
+                <Frame x:Name="Users"
+                       NavigationUIVisibility="Hidden"/>
+            </TabItem>
         </TabControl>
     </Grid>
 </Window>

@@ -8,7 +8,7 @@ namespace TaskManager.Classes
 {
     public class TaskProcess
     {
-        public TaskProcess(int id, string name, long memoryBite)
+        public TaskProcess(int id, string name, double memoryBite)
         {
             Id = id;
             Name = name;
@@ -17,8 +17,9 @@ namespace TaskManager.Classes
 
         public int Id { get; set; }
         public string Name { get; set; }
-        public long MemoryBite { get; set; }
-        public long MemoryMB
+        public string User { get; set; }
+        public double MemoryBite { get; set; }
+        public double MemoryMB
         {
             get
             {

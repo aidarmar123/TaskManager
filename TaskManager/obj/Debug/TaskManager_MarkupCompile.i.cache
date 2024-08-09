@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Айдар\source\repos\TaskManager\TaskManager\App.xaml
-3-663215655
+42139727380
 
-13-635161061
+15-61984657
 161432926703
-MainWindow.xaml;Pages\Efficiency.xaml;Pages\Processes.xaml;
+MainWindow.xaml;Pages\Efficiency.xaml;Pages\Processes.xaml;Pages\UsersPage.xaml;
 resources\splashscreen.png
-False
+True
 

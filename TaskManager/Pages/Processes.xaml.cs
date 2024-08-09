@@ -61,6 +61,7 @@ namespace TaskManager.Pages
             //Данные всех процессов 
             foreach (Process process in Process.GetProcesses())
             {
+               
                 TaskProcess taskProcess = new TaskProcess(process.Id, process.ProcessName, process.WorkingSet64);
                 taskProcess.CPU = GetCpu.GetCpuUsage(process);
                 processes.Add(taskProcess);

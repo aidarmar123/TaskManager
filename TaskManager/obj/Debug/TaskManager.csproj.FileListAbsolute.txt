@@ -24,3 +24,5 @@ C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\Process
 C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\Processes.baml
 C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\Efficiency.g.cs
 C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\Efficiency.baml
+C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\UsersPage.g.cs
+C:\Users\Айдар\source\repos\TaskManager\TaskManager\obj\Debug\Pages\UsersPage.baml

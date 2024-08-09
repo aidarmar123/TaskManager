@@ -34,6 +34,7 @@ namespace TaskManager
             //Навигация
             TaskManagerFrame.Navigate(new Processes());
             EffciencyFrame.Navigate(new Efficiency());
+            Users.Navigate(new UsersPage());
             
         }
     }

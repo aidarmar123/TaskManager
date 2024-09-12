@@ -34,9 +34,9 @@ namespace TaskManager.Pages
 
         private void Refresh()
         {
+        //Занимает много времени
             List<User> users = GetProcessesByUser();
             LBUsers.ItemsSource = users;
-
         }
 
         public List<User> GetProcessesByUser()
